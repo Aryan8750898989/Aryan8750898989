@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Aryan8750898989/Aryan8750898989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aryanyadav2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
